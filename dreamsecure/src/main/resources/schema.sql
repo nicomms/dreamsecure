@@ -1,9 +1,0 @@
-CREATE TABLE EMP(
-	EMP_ID INT PRIMARY KEY,
-    EMP_NM VARCHAR(30),
-	EMP_MOB VARCHAR(20),
-	SI VARCHAR(20),
-	GUNGU VARCHAR(20),
-	DONG VARCHAR(20));
-	
-create sequence seq_emp start with 25;
